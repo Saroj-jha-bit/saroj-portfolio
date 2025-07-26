@@ -287,8 +287,6 @@ header>img {
 .image-container {
     width: 100%;
     height:auto;
-    
-    margin: 10px;
     position: relative;
 }
 .image-container img {
