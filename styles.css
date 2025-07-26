@@ -282,7 +282,7 @@ header>img {
     font-weight: bold;
     font-family: cursive, dancing;
     color: #333;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 .image-container {
     width: 100%;
@@ -297,7 +297,7 @@ header>img {
 }
 .gallery-items  {
     
-    gap: 10px;
+    gap: 25px;
     border:solid black 1px !important;
     border-radius: 10px; 
 }
