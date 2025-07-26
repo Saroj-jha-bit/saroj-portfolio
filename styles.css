@@ -280,7 +280,7 @@ header>img {
     text-align: center;
     font-size: 14px;
     font-weight: bold;
-    font-family: cursive, dancing;
+    font: dancing;
     color: #333;
     margin-top: 10px;
 }
