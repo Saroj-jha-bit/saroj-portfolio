@@ -292,7 +292,7 @@ header>img {
     position: relative;
 }
 .image-container img {
-    width: 100%;
+    width: 40%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
