@@ -569,3 +569,54 @@ footer {
     padding: 10px;
   }
 }
+
+/* === Updated Responsive Mobile Fixes === */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+    padding: 0 8px;
+  }
+
+  header, footer, nav, main, section {
+    width: 100%;
+    padding: 10px 8px;
+    box-sizing: border-box;
+  }
+
+  .profile-img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .main-nav a,
+  .blog-header nav a {
+    font-size: 13px;
+    padding: 6px 10px;
+  }
+
+  .index-content,
+  .about-main,
+  .blog-content,
+  #contact-info,
+  #social-connection,
+  #gallery-intro {
+    padding: 15px 10px;
+    margin: 15px 5px;
+    font-size: 14px;
+  }
+
+  .gallery-item {
+    width: 100%;
+    max-width: 95%;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+  }
+
+  footer {
+    font-size: 13px;
+    padding: 10px;
+  }
+}
